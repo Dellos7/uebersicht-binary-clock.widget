@@ -101,7 +101,6 @@ style: """
   sphera-fill-bg-color = #007AFF
   sphera-fill-font-color = #FFFFFF
   sphera-unfill-font-color = #000000
-  display-labels = 1
   top = 3%
   right = -5%
 
